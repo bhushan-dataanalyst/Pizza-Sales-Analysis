@@ -104,9 +104,9 @@ Stored in `SQL_Queries/`:
 ## 🙋‍♂️ Author
 
 **Bhushan Kumbhar**  
-📧 [kumbharbhushan27@gmail.com]  
-🔗 [https://www.linkedin.com/in/bhushan-kumbhar01/]  
-🐙 [(https://github.com/bhushan-dataanalyst)]
+📧 [Email(mailto:kumbharbhushan27@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/bhushan-kumbhar01/)  
+🐙 [GitHub Profile](https://github.com/bhushan-dataanalyst)
 
 ---
 
